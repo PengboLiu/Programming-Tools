@@ -2,7 +2,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
-// C++µÄsplitº¯Êý
+// C++ split
 void split(const std::string& s,
     std::vector<std::string>& sv,
                    const char delim = ' ') {
